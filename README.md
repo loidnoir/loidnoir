@@ -1,10 +1,6 @@
 <h1>Hello and welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p>Welcome to my profile. I'm <b>Loid</b> from <img src="https://i.postimg.cc/SxYwQpCk/flag-round-250.png" width="15px"> <b>Armenia</b>
 
-<a href="https://discord.com/users/690728155052245072">
-  <img src="https://lanyard.cnrad.dev/api/690728155052245072" align="right" />
-</a>
-
 - 🌿 I’m currently working on <b>Noir</b> bot
 - ✏️ I’m currently learning Nextjs with redux
 - 🔎 Ask me about anything related to <b>JavaScript</b>, <b>TypeScript</b>
