@@ -15,7 +15,6 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-141314?style=flat-square&logo=next.js" />
   <img alt="Astro" src="https://img.shields.io/badge/-Astro-141314?style=flat-square&logo=astro" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-7c35f0?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwindcss-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
