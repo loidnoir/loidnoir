@@ -9,12 +9,10 @@
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-339cff?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f2df4e?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-2470a6?style=flat-square&logo=python&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-141314?style=flat-square&logo=next.js" />
-  <img alt="Astro" src="https://img.shields.io/badge/-Astro-141314?style=flat-square&logo=astro" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwindcss-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
