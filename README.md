@@ -19,6 +19,6 @@
 <h2>Where to find me</h2>
 <p>
   <a href="https://github.com/loidnoir" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-1d1e1f.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href=" https://discord.gg/WzH5xWArBb" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Loid%232539-339cff.svg?&style=for-the-badge&logo=Discord&logoColor=white" /><a> 
+  <a href=" https://discord.gg/WzH5xWArBb" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Loid%237086-339cff.svg?&style=for-the-badge&logo=Discord&logoColor=white" /><a> 
   <a href=" https://discord.gg/WzH5xWArBb" target="_blank"><img alt="Cubeis" src="https://img.shields.io/badge/Cubeis-47d115.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a> 
 </p>
