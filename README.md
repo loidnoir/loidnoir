@@ -20,5 +20,5 @@
 <p>
   <a href="https://github.com/loidnoir" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-1d1e1f.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/loid/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Loid-339cff.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /><a> 
-  <a href=" https://discord.gg/WzH5xWArBb" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Loid%237086-339cff.svg?&style=for-the-badge&logo=Discord&logoColor=white" /><a>
+  <a href=" https://discord.gg/WzH5xWArBb" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Loid%230001-339cff.svg?&style=for-the-badge&logo=Discord&logoColor=white" />
 </p>
