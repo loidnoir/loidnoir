@@ -2,7 +2,7 @@
 <p>Welcome to my profile. I'm <b>Loid</b> from <img src="https://i.postimg.cc/SxYwQpCk/flag-round-250.png" width="15"> <b>Armenia</b>
 
 - 🌿 I’m currently working on <b>Noir</b> bot
-- ✏️ I’m currently learning Nextjs with redux
+- ✏️ I’m currently learning nothing special
 - 🔎 Ask me about anything related to <b>JavaScript</b>, <b>TypeScript</b>
 
 <h2>Things I code with</h2>
