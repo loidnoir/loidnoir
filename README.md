@@ -1,5 +1,5 @@
 <h1>Hello and welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<p>Welcome to my profile. I'm <b>Loid</b> from <img src="https://i.postimg.cc/SxYwQpCk/flag-round-250.png" width="15"> <b>Armenia</b>
+<p>Welcome to my profile. I'm <b>Samvel</b> from <img src="https://i.postimg.cc/SxYwQpCk/flag-round-250.png" width="15"> <b>Armenia</b>
 
 - 🌿 I’m currently working on <b>Noir</b> bot
 - ✏️ I’m currently learning nothing special
