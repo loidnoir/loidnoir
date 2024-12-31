@@ -3,7 +3,7 @@
 
 - 🌿 I’m currently working on <b>Noir</b> bot
 - ✏️ I’m currently learning nothing special
-- 🔎 Ask me about anything related to <b>JavaScript</b>, <b>TypeScript</b>
+- 🔎 Ask me about anything related to <b>TypeScript</b>, <b>Rust</b>, <b>Python</b>
 
 
 <h2>Where to find me</h2>
